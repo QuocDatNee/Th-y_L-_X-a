@@ -1,2 +1,4 @@
 #sdfsdfsdf
-print("alo")
+con co 
+con cho con meo
+
